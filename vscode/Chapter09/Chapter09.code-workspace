@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "WorkingWithFileSystems"
 		},
 		{
@@ -20,6 +21,15 @@
 		},
 		{
 			"path": "Ch09Ex02SerializingShapes"
+=======
+			"path": "Northwind.WebApi.Service"
+		},
+		{
+			"path": "Northwind.WebApi.Client.Mvc"
+		},
+		{
+			"path": "Northwind.WebApi.Client.Console"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

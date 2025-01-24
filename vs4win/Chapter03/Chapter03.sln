@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{900C1311-F1B3-4AA5-A56E-31343288B1E6}"
@@ -28,6 +29,13 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03Ex04Exceptions", "Ch03Ex04Exceptions\Ch03Ex04Exceptions.csproj", "{DAE099EB-2F72-4B8F-BAC9-A98868F0EB17}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03Ex05Operators", "Ch03Ex05Operators\Ch03Ex05Operators.csproj", "{C52FC40B-5C3F-4E3E-9228-2B23DEDFD7B1}"
+=======
+VisualStudioVersion = 17.2.32422.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.CosmosDb.Gremlin", "Northwind.CosmosDb.Gremlin\Northwind.CosmosDb.Gremlin.csproj", "{4375DA0A-6199-4FAF-949D-FB8DF52ED5AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.CosmosDb.SqlApi", "Northwind.CosmosDb.SqlApi\Northwind.CosmosDb.SqlApi.csproj", "{4FE7BA4F-3C97-4828-ACB4-F85AB0A3C508}"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +43,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{900C1311-F1B3-4AA5-A56E-31343288B1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{900C1311-F1B3-4AA5-A56E-31343288B1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900C1311-F1B3-4AA5-A56E-31343288B1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,11 +96,25 @@ Global
 		{C52FC40B-5C3F-4E3E-9228-2B23DEDFD7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C52FC40B-5C3F-4E3E-9228-2B23DEDFD7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C52FC40B-5C3F-4E3E-9228-2B23DEDFD7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{4375DA0A-6199-4FAF-949D-FB8DF52ED5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4375DA0A-6199-4FAF-949D-FB8DF52ED5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4375DA0A-6199-4FAF-949D-FB8DF52ED5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4375DA0A-6199-4FAF-949D-FB8DF52ED5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE7BA4F-3C97-4828-ACB4-F85AB0A3C508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE7BA4F-3C97-4828-ACB4-F85AB0A3C508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE7BA4F-3C97-4828-ACB4-F85AB0A3C508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE7BA4F-3C97-4828-ACB4-F85AB0A3C508}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {6E9CB3A2-3A2D-46E1-8644-0A62A02BAC03}
+=======
+		SolutionGuid = {86F46511-6ECD-43EA-85FB-8C714588BD06}
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 EndGlobal

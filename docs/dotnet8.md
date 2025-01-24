@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Seventh Edition's support for .NET 8
+=======
+# First Edition's support for .NET 8
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 
 Microsoft will release previews of .NET 8 monthly starting in February 2023 until the final General Availability (GA) version on Tuesday, November 14, 2023.
 
@@ -43,6 +47,7 @@ To this:
 
 For projects that reference additional NuGet packages, use the latest NuGet package version, as shown in the rest of this page, instead of the version given in the book. You can search for the correct NuGet package version numbers yourself at the following link: https://www.nuget.org
 
+<<<<<<< HEAD
 ## Chapter 4 - Writing, Debugging, and Testing Functions
 
 For the `Instrumenting` project, the additional referenced NuGet packages should use the .NET 8.0 versions, as shown in the following markup: 
@@ -201,3 +206,5 @@ For the `NorthwindService` project, the referenced NuGet packages should use the
 
 </Project>
 ```
+=======
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d

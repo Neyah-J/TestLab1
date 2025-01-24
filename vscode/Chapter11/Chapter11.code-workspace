@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "LinqWithObjects"
 		},
 		{
@@ -11,6 +12,12 @@
 		},
 		{
 			"path": "Ch11Ex02LinqQueries"
+=======
+			"path": "Northwind.GraphQL"
+		},
+		{
+			"path": "Northwind.Mvc.GraphQLClient"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

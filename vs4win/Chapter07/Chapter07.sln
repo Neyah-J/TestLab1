@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssembliesAndNamespaces", "AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{4FD636C5-91F6-46AC-97B7-2396F11A31A8}"
@@ -12,6 +13,15 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlSDK", "ControlSDK\ControlSDK.csproj", "{76808C33-E138-4170-9621-122C1993B36E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLinks", "SourceLinks\SourceLinks.csproj", "{FA7C1721-0B08-42CA-A075-66FFEF57B9A5}"
+=======
+VisualStudioVersion = 17.2.32314.265
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithTime", "WorkingWithTime\WorkingWithTime.csproj", "{76B9C71A-48AE-488B-97F0-2CC797082EB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithCultures", "WorkingWithCultures\WorkingWithCultures.csproj", "{C4B6CE47-BF34-4FA8-8AAF-5546524C8B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithTimeZones", "WorkingWithTimeZones\WorkingWithTimeZones.csproj", "{DA0F6625-EF4C-4B39-825F-3574BF61BFDE}"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +29,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{4FD636C5-91F6-46AC-97B7-2396F11A31A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4FD636C5-91F6-46AC-97B7-2396F11A31A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FD636C5-91F6-46AC-97B7-2396F11A31A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,11 +50,29 @@ Global
 		{FA7C1721-0B08-42CA-A075-66FFEF57B9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7C1721-0B08-42CA-A075-66FFEF57B9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7C1721-0B08-42CA-A075-66FFEF57B9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{76B9C71A-48AE-488B-97F0-2CC797082EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B9C71A-48AE-488B-97F0-2CC797082EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B9C71A-48AE-488B-97F0-2CC797082EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B9C71A-48AE-488B-97F0-2CC797082EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B6CE47-BF34-4FA8-8AAF-5546524C8B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B6CE47-BF34-4FA8-8AAF-5546524C8B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B6CE47-BF34-4FA8-8AAF-5546524C8B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B6CE47-BF34-4FA8-8AAF-5546524C8B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0F6625-EF4C-4B39-825F-3574BF61BFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0F6625-EF4C-4B39-825F-3574BF61BFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0F6625-EF4C-4B39-825F-3574BF61BFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0F6625-EF4C-4B39-825F-3574BF61BFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {86EB53C2-864D-4ACE-91FC-C09189FDA62D}
+=======
+		SolutionGuid = {F16D3D91-8C57-4CCD-B6B4-F7B4B9032984}
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 EndGlobal

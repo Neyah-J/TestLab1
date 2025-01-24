@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "PacktLibraryNetStandard2"
 		},
 		{
@@ -11,6 +12,45 @@
 		},
 		{
 			"path": "PeopleApp"
+=======
+			"path": "WorkingWithImages"
+		},
+		{
+			"path": "Serilogging"
+		},
+		{
+			"path": "MappingObjects.Mappers"
+		},
+		{
+			"path": "MappingObjects.Models"
+		},
+		{
+			"path": "MappingObjects.Tests"
+		},
+		{
+			"path": "MappingObjects"
+		},
+		{
+			"path": "FluentTests"
+		},
+		{
+			"path": "FluentValidation.Models"
+		},
+		{
+			"path": "FluentValidation.Validators"
+		},
+		{
+			"path": "FluentValidation.App"
+		},
+		{
+			"path": "GeneratingPdf.Models"
+		},
+		{
+			"path": "GeneratingPdf.Document"
+		},
+		{
+			"path": "GeneratingPdf.App"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

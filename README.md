@@ -1,5 +1,6 @@
 [Improvements & Errata - list of corrections](docs/errata)
 
+<<<<<<< HEAD
 # C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals, Seventh Edition
 
 > .NET 7 reached its end-of-life on [Tuesday, May 14, 2024](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core#lifecycle). I recommend upgrading to [.NET 8](https://github.com/markjprice/cs12dotnet8/blob/main/README.md) as soon as possible.
@@ -16,6 +17,18 @@ My author page on Amazon: https://www.amazon.com/Mark-J-Price/e/B071DW3QGN/
 Available on Packt's website in eBook or Print + eBook editions, or included with a Packt Subscription, from November 8, 2022: https://packt.link/p2uyD
 
 All of my books on Packt's website: https://subscription.packtpub.com/search?query=mark+j.+price
+=======
+# Apps and Services with .NET 7, First Edition
+
+> .NET 7 reached its end-of-life on [Tuesday, May 14, 2024](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core#lifecycle). I recommend upgrading to [.NET 8](https://github.com/markjprice/apps-services-net8/blob/main/README.md) as soon as possible.
+
+With every Packt book you get a DRM-free PDF version of that book at no cost. Submit your proof of purchase at the following link:
+https://packt.link/free-ebook/9781801813433
+
+Available on Amazon in Paperback or Kindle editions from November 15, 2022. My author page on Amazon: https://www.amazon.com/Mark-J-Price/e/B071DW3QGN/ 
+
+Available on Packt's website in eBook or Print + eBook editions, or included with a Packt Subscription from November 15, 2022. All of my books on Packt's website: https://subscription.packtpub.com/search?query=mark+j.+price
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 
 ## Code solutions for Visual Studio 2022 and Visual Studio Code
 
@@ -24,6 +37,7 @@ If you have Visual Studio 2022 for Windows and Visual Studio Code and its C# ext
 - [/vs4win](/vs4win): Visual Studio 2022 for Windows solution files and projects for each chapter
 - [/vscode](/vscode): Visual Studio Code workspace files and projects for each chapter
 
+<<<<<<< HEAD
 ## Command-Lines
 
 To make it easier to enter commands at the prompt, the [Command-Lines](docs/command-lines.md) page lists all commands as a single line that can be copied and pasted.
@@ -50,21 +64,63 @@ To make it easier to enter commands at the prompt, the [Command-Lines](docs/comm
 - Chapter 14 Building Websites Using the Model-View-Controller Pattern
 - Chapter 15 Building and Consuming Web Services
 - Chapter 16 Building User Interface Components Using Blazor
+=======
+## Sibling books
+![Sibling books](images/B18857_01_01.png)
+
+[GitHub repository for C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals](https://github.com/markjprice/cs11dotnet7)
+
+## Technologies covered in the book
+
+![Technologies covered in the book](images/B18857_20_01.png)
+
+## Chapters
+- Chapter 1 Introducing Apps and Services with .NET
+- Chapter 2 Managing Relational Data Using SQL Server
+- Chapter 3 Managing NoSQL Data Using Azure Cosmos DB
+- Chapter 4 Benchmarking Performance, Multitasking, and Concurrency
+- Chapter 5 Implementing Popular Third-Party Libraries
+- Chapter 6 Observing and Modifying Code Execution Dynamically
+- Chapter 7 Handling Dates, Times, and Internationalization
+- Chapter 8 Protecting Your Data and Applications
+- Chapter 9 Building and Securing Web Services with Minimal APIs
+- Chapter 10 Exposing Data via the Web Using OData
+- Chapter 11 Combining Data Sources Using GraphQL
+- Chapter 12 Building Efficient Microservices Using gRPC
+- Chapter 13 Broadcasting Real-Time Communication Using SignalR
+- Chapter 14 Building Serverless Nanoservices Using Azure Functions
+- Chapter 15 Building Web User Interfaces Using ASP.NET Core
+- Chapter 16 Building Web Components Using Blazor WebAssembly
+- Chapter 17 Leveraging Open-Source Blazor Component Libraries
+- Chapter 18 Building Mobile and Desktop Apps Using .NET MAUI
+- Chapter 19 Integrating .NET MAUI Apps with Blazor and Native Platforms
+- Chapter 20 Introducing the Survey Project Challenge
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 
 ## Bonus content
 
 Chapters 7 and 12, and the appendix and color figures are available to download as PDFs:
 
+<<<<<<< HEAD
 - [Sample Chapters 7 and 12 - C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals](https://github.com/markjprice/cs11dotnet7/blob/main/docs/Sample%20Chapters%207%20and%2012%20-%20C%23%2011%20and%20.NET%207%20-%20Modern%20Cross-Platform%20Development%20Fundamentals.pdf)
 - [Appendix A, Answers to the Test Your Knowledge Questions](docs/B18856_Appendix.pdf)
 - [Color images of the screenshots/diagrams used in this book](docs/9781803237800_ColorImages.pdf)
+=======
+- [Sample Chapters 7 and 12 - Apps and Services with .NET 7](https://github.com/markjprice/apps-services-net7/blob/main/docs/Sample%20Chapters%207%20and%2012%20-%20Apps%20and%20Services%20with%20.NET%207.pdf)
+- [Appendix A, Answers to the Test Your Knowledge Questions](docs/B18857_Appendix.pdf)
+- [Color images of the screenshots/diagrams used in this book](docs/9781801813433_ColorImages.pdf)
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 
 ## Important
 Corrections for typos and other mistakes and improvements like refactoring code. Useful links to other related material. 
 - [Book Links](book-links.md)
 - [Improvements & Errata - list of corrections](docs/errata)
+<<<<<<< HEAD
 - [What's New in the 7th Edition](docs/whats-new.md)
 - [Seventh edition's support for .NET 8](docs/dotnet8.md)
+=======
+- [First edition's support for .NET 8](docs/dotnet8.md)
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 
 ## Microsoft Certifications
 Announcing the New Foundational C# Certification with freeCodeCamp:

@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "PacktLibrary"
 		},
 		{
@@ -17,6 +18,24 @@
 		},
 		{
 			"path": "Ch06Ex02Inheritance"
+=======
+			"path": "WorkingWithReflection"
+		},
+		{
+			"path": "GeneratingCodeApp"
+		},
+		{
+			"path": "GeneratingCodeLib"
+		},
+		{
+			"path": "DynamicLoadAndExecute.Console"
+		},
+		{
+			"path": "DynamicLoadAndExecute.Library"
+		},
+		{
+			"path": "WorkingWithExpressionTrees"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

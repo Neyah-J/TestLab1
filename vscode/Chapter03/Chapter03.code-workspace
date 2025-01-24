@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "Arrays"
 		},
 		{
@@ -38,6 +39,12 @@
 		},
 		{
 			"path": "Ch03Ex05Operators"
+=======
+			"path": "Northwind.CosmosDb.SqlApi"
+		},
+		{
+			"path": "Northwind.CosmosDb.Gremlin"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

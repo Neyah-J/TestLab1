@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "AssembliesAndNamespaces"
 		},
 		{
@@ -14,6 +15,15 @@
 		},
 		{
 			"path": "SourceLinks"
+=======
+			"path": "WorkingWithTime"
+		},
+		{
+			"path": "WorkingWithCultures"
+		},
+		{
+			"path": "WorkingWithTimeZones"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

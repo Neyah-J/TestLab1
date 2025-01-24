@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithEFCore", "WorkingWithEFCore\WorkingWithEFCore.csproj", "{4D815158-DA92-4AD6-A417-BEC800167D1E}"
@@ -8,6 +9,13 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesAndStudents", "CoursesAndStudents\CoursesAndStudents.csproj", "{B4E2819E-6E1B-4314-BBC4-80253EC7764E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10Ex02DataSerialization", "Ch10Ex02DataSerialization\Ch10Ex02DataSerialization.csproj", "{C9B3475A-66BB-48DC-B0A7-643A415A3D51}"
+=======
+VisualStudioVersion = 17.3.32505.426
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.OData.Client.Mvc", "Northwind.OData.Client.Mvc\Northwind.OData.Client.Mvc.csproj", "{65A79C74-3D7E-4D3B-BE72-D27C36489E9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.OData.Service", "Northwind.OData.Service\Northwind.OData.Service.csproj", "{8958DB38-DAD3-458A-A334-7799478EA09D}"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{4D815158-DA92-4AD6-A417-BEC800167D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D815158-DA92-4AD6-A417-BEC800167D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D815158-DA92-4AD6-A417-BEC800167D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,11 +36,25 @@ Global
 		{C9B3475A-66BB-48DC-B0A7-643A415A3D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9B3475A-66BB-48DC-B0A7-643A415A3D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9B3475A-66BB-48DC-B0A7-643A415A3D51}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{65A79C74-3D7E-4D3B-BE72-D27C36489E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A79C74-3D7E-4D3B-BE72-D27C36489E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A79C74-3D7E-4D3B-BE72-D27C36489E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A79C74-3D7E-4D3B-BE72-D27C36489E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8958DB38-DAD3-458A-A334-7799478EA09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8958DB38-DAD3-458A-A334-7799478EA09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8958DB38-DAD3-458A-A334-7799478EA09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8958DB38-DAD3-458A-A334-7799478EA09D}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {FFE356D0-B615-4575-B486-42CBA73ED30C}
+=======
+		SolutionGuid = {7042A2A9-41F3-4D7A-90D7-1EEC12D32CBF}
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 EndGlobal

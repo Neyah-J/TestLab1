@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "WorkingWithEFCore"
 		},
 		{
@@ -8,6 +9,12 @@
 		},
 		{
 			"path": "Ch10Ex02DataSerialization"
+=======
+			"path": "Northwind.OData.Service"
+		},
+		{
+			"path": "Northwind.OData.Client.Mvc"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

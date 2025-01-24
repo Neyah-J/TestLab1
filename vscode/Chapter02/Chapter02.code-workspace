@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "Arguments"
 		},
 		{
@@ -20,6 +21,24 @@
 		},
 		{
 			"path": "Ch02Ex03Numbers"
+=======
+			"path": "Northwind.Console.SqlClient"
+		},
+		{
+			"path": "Northwind.Console.EFCore"
+		},
+		{
+			"path": "Northwind.Console.HierarchyMapping"
+		},
+		{
+			"path": "Northwind.Common.EntityModels.SqlServer"
+		},
+		{
+			"path": "Northwind.Common.DataContext.SqlServer"
+		},
+		{
+			"path": "Northwind.Common.EntityModels.Tests"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }

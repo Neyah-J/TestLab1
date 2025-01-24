@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithObjects", "LinqWithObjects\LinqWithObjects.csproj", "{0712B93E-C502-4E33-8B92-698596682A76}"
@@ -10,6 +11,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInParallel", "LinqInParallel\LinqInParallel.csproj", "{5962169C-AC14-4B9D-A079-0D8D293CD65C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch11Ex02LinqQueries", "Ch11Ex02LinqQueries\Ch11Ex02LinqQueries.csproj", "{F972829E-E7F1-4A1B-99EB-E582C5329BBC}"
+=======
+VisualStudioVersion = 17.3.32505.426
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.GraphQL", "Northwind.GraphQL\Northwind.GraphQL.csproj", "{466A8929-78B0-41A9-96CD-47AC4CB5FBA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Mvc.GraphQLClient", "Northwind.Mvc.GraphQLClient\Northwind.Mvc.GraphQLClient.csproj", "{71428BD2-8828-4130-B7E2-7E6653774466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.GraphQL.Client.Console", "Northwind.GraphQL.Client.Console\Northwind.GraphQL.Client.Console.csproj", "{748FCCEB-BBAC-4718-AB96-3A5D9AD0E501}"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +27,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{0712B93E-C502-4E33-8B92-698596682A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0712B93E-C502-4E33-8B92-698596682A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0712B93E-C502-4E33-8B92-698596682A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,11 +44,29 @@ Global
 		{F972829E-E7F1-4A1B-99EB-E582C5329BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F972829E-E7F1-4A1B-99EB-E582C5329BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F972829E-E7F1-4A1B-99EB-E582C5329BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{466A8929-78B0-41A9-96CD-47AC4CB5FBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466A8929-78B0-41A9-96CD-47AC4CB5FBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466A8929-78B0-41A9-96CD-47AC4CB5FBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466A8929-78B0-41A9-96CD-47AC4CB5FBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71428BD2-8828-4130-B7E2-7E6653774466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71428BD2-8828-4130-B7E2-7E6653774466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71428BD2-8828-4130-B7E2-7E6653774466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71428BD2-8828-4130-B7E2-7E6653774466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748FCCEB-BBAC-4718-AB96-3A5D9AD0E501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748FCCEB-BBAC-4718-AB96-3A5D9AD0E501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748FCCEB-BBAC-4718-AB96-3A5D9AD0E501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748FCCEB-BBAC-4718-AB96-3A5D9AD0E501}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {6FFEB3ED-7D40-4114-AB17-601B64A8FCE5}
+=======
+		SolutionGuid = {AF9BCAC1-5F4F-40B0-A35C-8BA72C052983}
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 	EndGlobalSection
 EndGlobal

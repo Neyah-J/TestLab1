@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "WritingFunctions"
 		},
 		{
@@ -32,6 +33,30 @@
 		},
 		{
 			"path": "Ch04Ex02PrimeFactorsTests"
+=======
+			"path": "MonitoringLib"
+		},
+		{
+			"path": "MonitoringApp"
+		},
+		{
+			"path": "Benchmarking"
+		},
+		{
+			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "SynchronizingResourceAccess"
+		},
+		{
+			"path": "AsyncConsole"
+		},
+		{
+			"path": "AsyncEnumerable"
+		},
+		{
+			"path": "WpfResponsive"
+>>>>>>> 091557b2512ff8a35396401db8beabff605c8c3d
 		}
 	]
 }
